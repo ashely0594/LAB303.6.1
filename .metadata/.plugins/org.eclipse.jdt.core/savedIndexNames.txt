@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/ashleydominguez/eclipse-workspace/Lab303.6.1/.metadata/.plugins/org.eclipse.jdt.core
+3788972270.index
+1943384544.index
+1865797976.index
